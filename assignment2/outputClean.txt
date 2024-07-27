@@ -1,0 +1,9 @@
+Features Of Python
+Python has following properties:-
+Easy to use: Python is said to be programming at the speed of thought (nice!) .
+Simple but powerful: Though Python is simple, it's as powerful as other modern languages .
+Object oriented: Python allows object oriented programming (intutive way of representing info in a program) as an optional feature, so that we can start learning it without knowing what it is.
+Glue language: Python can be integrated easily with codes written in C, C++, and Java .
+Runs everywhere: Python runs on Windows, Macintosh, or Linux machines.
+Strong community: You can search easily about your errors on Google.
+Free and open source: You do not need to pay anything for using Python.
